@@ -10,7 +10,11 @@
       "Bash(find:*)",
       "Bash(test:*)",
       "Bash(grep:*)",
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "Read(//home/taozs/codeai/context-engineering-intro/use-cases/langgraph-agents/**)",
+      "WebSearch",
+      "Read(//home/taozs/codeai/context-engineering-intro/use-cases/springboot/**)",
+      "Bash(chmod:*)"
     ],
     "deny": []
   }
