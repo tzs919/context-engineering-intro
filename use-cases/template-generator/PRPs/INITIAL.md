@@ -2,62 +2,80 @@
 
 ## TECHNOLOGY/FRAMEWORK:
 
-**Example:** Spring Boot  
+**Example:** vue  
 
-**Your technology:** java,Spring Boot,Spring mvc,Spring Data JPA,Spring Security,H2,REST API
+**Your technology:** TypeScript ，Vue 3 ， pnpm ，Playwright
 
 ---
 
 ## TEMPLATE PURPOSE:
-- 使用Spring Boot开发后端web app
+- 使用Vue 3开发前端应用
 ---
 
 ## CORE FEATURES:
-- java21
-- Spring Boot 3.X
-- spring boot test
-- Spring MVC,and REST API
-- Spring Data JPA
-- Spring Security
-- use memory database H2
+- TypeScript , html , css
+- Vue 3 , Vuetify 3 , Vite , pnpm
+- 组件测试： Vitest
+- 样式: Vuetify Material Design 
+- E2E测试：Playwright
+- 使用fetch函数获取后端资源
+- 状态管理：Pinia
+- 路由：vue router
 
 
 ---
 
 ## EXAMPLES TO INCLUDE:
-- Spring MVC,and REST API
-- Spring Data JPA
-- Spring Security
-- spring boot test
+- vue
+- Vuetify
+- Vitest
+- Playwright
 
 ---
 
 ## DOCUMENTATION TO RESEARCH:
 
-- https://spring.io/projects
-- https://spring.io/quickstart
-- https://spring.io/guides
-- https://spring.io/projects/spring-boot
-- https://spring.io/projects/spring-framework
-- https://langchain-ai.github.io/langgraph/additional-resources/
-- spring boot test
+- https://vuejs.org/sitemap.xml ， Vue
+- https://vuejs.org/llms.txt ， Vue
+- https://pinia.vuejs.org/introduction.html，Pinia
+- https://pinia.vuejs.org/getting-started.html
+- https://pinia.vuejs.org/core-concepts/
+- https://pinia.vuejs.org/core-concepts/state.html
+- https://pinia.vuejs.org/core-concepts/getters.html
+- https://pinia.vuejs.org/core-concepts/actions.html
+- https://pnpm.io/sitemap.xml，pnpm
+- https://router.vuejs.org/introduction.html，vue router
+- https://router.vuejs.org/installation.html
+- https://router.vuejs.org/guide/
+- https://router.vuejs.org/guide/essentials/dynamic-matching.html
+- https://router.vuejs.org/guide/essentials/route-matching-syntax.html
+- https://router.vuejs.org/guide/essentials/named-routes.html
+- https://router.vuejs.org/guide/essentials/navigation.html
+- https://vitest.dev/guide/why.html，vitest
+- https://vitest.dev/guide/
+- https://vitest.dev/guide/features.html
+- https://vitest.dev/config/
+- https://vitest.dev/api/
+- https://vitest.dev/api/mock.html
+- https://vitest.dev/guide/cli.html
+- https://playwright.dev/sitemap.xml,playwright
+- https://vuetifyjs.com/en/introduction/why-vuetify/#what-is-vuetify3f，Vuetify
 
 ---
 
 ## DEVELOPMENT PATTERNS:
-- 使用分层架构模式，controller，service，dao
-- 配置文件格式yaml
-- 日志记录与跟踪
+- 使用MVVM架构模式
+- 基于vue3组件化开发
 
 ---
 
 ## INTEGRATION FOCUS:
-- 使用H2内存数据库
+- 后端restful api
 
 ---
 
 ## ADDITIONAL NOTES:
-- 使用Maven构建
+- 使用vite和pnpm构建
 
 ---
 

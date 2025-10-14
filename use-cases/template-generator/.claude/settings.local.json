@@ -14,7 +14,8 @@
       "Read(//home/taozs/codeai/context-engineering-intro/use-cases/langgraph-agents/**)",
       "WebSearch",
       "Read(//home/taozs/codeai/context-engineering-intro/use-cases/springboot/**)",
-      "Bash(chmod:*)"
+      "Bash(chmod:*)",
+      "Bash(tree:*)"
     ],
     "deny": []
   }
